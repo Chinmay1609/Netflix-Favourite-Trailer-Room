@@ -1,0 +1,11 @@
+.row {
+  text-align: center;
+  padding: 50px;
+}
+body {
+  background: url(/img/bg.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
